@@ -1,0 +1,14 @@
+export const environment = {
+  production: true,
+  firebaseConfig : {
+    apiKey: "AIzaSyA41-ABP-sr6moUQWNGpDWsyp3CcSITqRs",
+    authDomain: "comprasapp-dc4fb.firebaseapp.com",
+    databaseURL: "https://comprasapp-dc4fb.firebaseio.com",
+    projectId: "comprasapp-dc4fb",
+    storageBucket: "comprasapp-dc4fb.appspot.com",
+    messagingSenderId: "669234285474",
+    appId: "1:669234285474:web:1c195945d436645c6f80fb",
+    measurementId: "G-M67CPFGZHD"
+    
+  }
+};
